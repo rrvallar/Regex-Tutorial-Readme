@@ -62,5 +62,6 @@ https://github.com/rrvallar
 
 ### Acceptance Critera
 
+<img width="523" alt="image" src="https://user-images.githubusercontent.com/103392875/195168020-c6cc78c2-dd14-401a-9c21-10bc9cfd3708.png">
 
 
