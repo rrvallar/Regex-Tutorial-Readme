@@ -36,3 +36,11 @@ m, or multi-line includes (^ and $) will match the beginning and end of a line i
 i makes the entire string case-insensitive. So /xYz/i will match XYz
 
 gi will cover upper and lower casings.
+
+# Bracket Expressions
+
+Bracket expressions use ([]) to define the character class. Anything placed with the brackets will make a match to the regex pattern unless a (^) character is used. So [a-z] will match any character in the alphabet.
+
+# Author
+
+Rob currently works in the medical field, looking to expand on his knowledge by taking an online coding Bootcamp course. Having always been interested in taking coding courses, he found this opportunity perfect to hone these new skills. Rob believes these skills can be useful in helping create the practice website.
